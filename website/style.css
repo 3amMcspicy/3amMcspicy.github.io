@@ -3,9 +3,9 @@
   src: url(/fonts/bauhaus\ regular.ttf);
 }
 
-canvas {
+/* canvas {
   color: #e9e9e9c4;
-}
+} */
 
 .logo span {
   font-family: 'bauhaus';
