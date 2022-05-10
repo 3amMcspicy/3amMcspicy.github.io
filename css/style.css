@@ -1,6 +1,6 @@
 @font-face {
     font-family: bauahus;
-    src: url(../fonts/bauhaus\ regular.ttf);
+    src: url(../fonts/bauhaus\ regular.ttf) format('truetype');
 }
 
 canvas {
