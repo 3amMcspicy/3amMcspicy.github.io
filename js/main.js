@@ -20,7 +20,7 @@ camera.position.setX(7);
 camera.position.setY(30); //9
 
 //Orbit controls and limitation on what users can do. 
-const controls = new OrbitControls(camera, renderer.domElement);
+const controls = new OrbitControls(camera, document.getElementById("bg"));
 controls.autoRotate = true;
 controls.autoRotateSpeed = 0.9;
 //controls.enableZoom = false;
