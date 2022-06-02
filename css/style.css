@@ -1,6 +1,6 @@
 @font-face {
-    font-family: bauahus;
-    src: url('../fonts/bauhaus\ regular.ttf') format('truetype');
+    font-family: "bauahus";
+    src: url("../fonts/bauhaus\ regular.ttf") format('truetype');
 }
 
 canvas {
@@ -8,7 +8,7 @@ canvas {
 }
 
 .logo span {
-    font-family: 'bauhaus';
+    font-family: "bauahus";
     font-size: 45px;
     font-weight: lighter;
     color: #FC4343;
@@ -69,7 +69,7 @@ a:hover {
     top: 60%;
     left: 55%;
     font-size: 350%;
-    font-family: 'bauhaus';
+    font-family: "bauahus";
     transform: translate(-50%, -50%);
     color: #FC4343;
 }
@@ -83,7 +83,7 @@ a:hover {
     top: 60%;
     left: 55%;
     font-size: 350%;
-    font-family: 'bauhaus';
+    font-family: "bauahus";
     transform: translate(-50%, -50%);
     color: #FC4343;
 }
@@ -97,7 +97,7 @@ a:hover {
     top: 60%;
     left: 55%;
     font-size: 350%;
-    font-family: 'bauhaus';
+    font-family: "bauahus";
     transform: translate(-50%, -50%);
     color: #FC4343;
 }
@@ -112,4 +112,5 @@ a:hover {
     top: 10%;
     left: 40%;
     font-size: 400%;
+    font-family: "bauahus";
 } */
